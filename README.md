@@ -27,13 +27,13 @@ We will use email for weekly newsletters/announcements and Slack for topic speci
 
 ## Next Steps
 
-I currently plan on meeting at AADL Downtown 11 am. next Saturday, December 23rd, but I realize that time is bumping into some other plans. 
-I'll need to see if Friday works or if I need to bump this back again.
+Looking to meet Saturday, December 30th, 2023.
 
 TODO:
-- Design Website (logos, pictures, fonts, colors done. need to figure out what pages to have + content for those pages)
-- Implement website (main CTA page, motivation page, page for previous announcements, gallery, contact/feedback, maybe FAQ?)
+- Add google forms
+- Setup newsletter signup + slack
 - Setup GA4 (this will allow us to see how well various platforms, newsletter clicks, we can even A/B test different locations to place flyers)
 - Write promotions on EventBrite, Meetup, Reddit, Facebook w/ UTM links for understanding where time needs to be invested in.
+- Put forms + newsletter signup + slack into website, complete website
 - Design flyers (logo /w text, qr code to website (make sure this has UTM for tracking), blurb describing goals/first meeting setting)
 - Advertise + write first newsletter (keep this simple, use markdown)
