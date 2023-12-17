@@ -17,6 +17,14 @@ Somewhere in Downtown Ann Arbor at an accessible time: AADL, 11am Saturday
 
 Need to measure and execute campaigns on Reddit, Facebook, Meetup, EventBrite and Email. Measure clicks on these via UTM + GA4. 
 
+UTMS (use utm_content to A/B test newsletter variations + flyer locations):
+- newsletter: https://www.a2sysml.xyz?utm_source=newsletter&utm_medium=email&utm_campaign=target_date&utm_content=default
+- flyer: https://www.a2sysml.xyz?utm_source=flyer&utm_medium=physical&utm_campaign=target_date&utm_content=default
+- reddit: https://www.a2sysml.xyz?utm_source=reddit&utm_medium=social_media&utm_campaign=target_date
+- facebook: https://www.a2sysml.xyz?utm_source=facebook&utm_medium=social_media&utm_campaign=target_date
+- eventbrite: https://www.a2sysml.xyz?utm_source=eventbrite&utm_medium=meetup_platform&utm_campaign=target_date
+- meetup: https://www.a2sysml.xyz?utm_source=meetup&utm_medium=meetup_platform&utm_campaign=target_date
+
 ## Feedback
 
 Feedback can be gathered through a form accessible on the website.
@@ -30,9 +38,7 @@ We will use email for weekly newsletters/announcements and Slack for topic speci
 Looking to meet Saturday, December 30th, 2023.
 
 TODO:
-- Add google forms
-- Setup newsletter signup + slack
-- Setup GA4 (this will allow us to see how well various platforms, newsletter clicks, we can even A/B test different locations to place flyers)
+- Setup newsletter signup (use zoho, need to signup, setup spf+dkim) + slack
 - Write promotions on EventBrite, Meetup, Reddit, Facebook w/ UTM links for understanding where time needs to be invested in.
 - Put forms + newsletter signup + slack into website, complete website
 - Design flyers (logo /w text, qr code to website (make sure this has UTM for tracking), blurb describing goals/first meeting setting)
