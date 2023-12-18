@@ -33,12 +33,13 @@ Feedback can be gathered through a form accessible on the website.
 
 We will use email for weekly newsletters/announcements and Slack for topic specific communication.
 
+Slack link: https://a2sysml.slack.com/join/shared_invite/zt-296caufsy-aQAZfhTHjdB3exoSIWwPow#/shared-invite/email
+
 ## Next Steps
 
 Looking to meet Saturday, December 30th, 2023.
 
 TODO:
-- Setup Slack (use current logo/name, add few channels (everything, ml, systems)), then put on website
 - Design flyers (logo /w text, qr code to website (make sure this has UTM for tracking), blurb describing goals/first meeting setting, use photoshop or some other free software)
 - Put forms, complete website (check for any glaring issues)
 - Write promotions on EventBrite, Meetup, Reddit, Facebook w/ UTM links for understanding where time needs to be invested in.
