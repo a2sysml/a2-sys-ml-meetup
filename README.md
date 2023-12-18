@@ -11,7 +11,7 @@ Very open to begin with. I'll need to measure what people want during the first 
 
 ## Venue / Time
 
-Somewhere in Downtown Ann Arbor at an accessible time: AADL, 11am Saturday
+AADL Downtown Freespace Room (3rd floor). Saturdays at 11am - 12pm.
 
 ## Marketing:
 
@@ -41,6 +41,8 @@ Looking to meet Saturday, December 30th, 2023.
 
 TODO:
 - Design flyers (logo /w text, qr code to website (make sure this has UTM for tracking), blurb describing goals/first meeting setting, use photoshop or some other free software)
+- book room (freespace, saturday 11am dec 30th)
+- find 5 points of interest for flyers (make separate UTM codes to measure effectiveness), aim for 10-20 colored + laminated copies when printing at staples
 - Put forms, complete website (check for any glaring issues, add parking/transit instructions (with map))
 - Write promotions on EventBrite, Meetup, Reddit, Facebook w/ UTM links for understanding where time needs to be invested in.
 - Advertise + write first newsletter (keep this simple, use markdown, include parking/transit instructions)
