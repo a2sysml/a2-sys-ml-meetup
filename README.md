@@ -41,6 +41,6 @@ Looking to meet Saturday, December 30th, 2023.
 
 TODO:
 - Design flyers (logo /w text, qr code to website (make sure this has UTM for tracking), blurb describing goals/first meeting setting, use photoshop or some other free software)
-- Put forms, complete website (check for any glaring issues)
+- Put forms, complete website (check for any glaring issues, add parking/transit instructions (with map))
 - Write promotions on EventBrite, Meetup, Reddit, Facebook w/ UTM links for understanding where time needs to be invested in.
-- Advertise + write first newsletter (keep this simple, use markdown)
+- Advertise + write first newsletter (keep this simple, use markdown, include parking/transit instructions)
