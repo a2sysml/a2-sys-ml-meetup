@@ -3,7 +3,7 @@ principles, motivations and marketing
 
 ## Motivation
 
-I really just want a "hacker" atmosphere. I think I'll focus mostly on systems and ML. I think it'll be a mix of research, personal projects and speeches. I want it to be an atmosphere where a conversation(maybe mulitple) can start and anyone can show their stuff off. Tech for the sake of tech. No Agile EVER. No fixation on large orgs (digital transformation, cloud fixation, methodologies). MAYBE Startups. Badass shit. Modern tooling like Rust. SOTA databases, ML systems, compute, static analysis. Heavy engineering focus. Frontend only if there was interesting ENGINEERING (on the order of diff -> signal algorithms in implementation of frontend frameworks)
+I really just want a "hacker" atmosphere. I think I'll focus mostly on systems and ML. I think it'll be a mix of research, personal projects and presentations. I want it to be an atmosphere where a conversation can start and anyone can show their stuff off. Tech for the sake of tech. No Agile EVER. No fixation on large orgs (digital transformation, cloud migration for the sake of compliance, methodologies). MAYBE Startups. Badass shit. Modern tooling like Rust. SOTA databases, ML systems, compute, static analysis. Heavy engineering focus. Frontend only if there was interesting ENGINEERING (on the order of diff -> signal algorithms in implementation of frontend frameworks).
 
 ## Content
 
@@ -25,15 +25,31 @@ UTMS (use utm_content to A/B test newsletter variations + flyer locations):
 - eventbrite: https://www.a2sysml.xyz?utm_source=eventbrite&utm_medium=meetup_platform&utm_campaign=target_date
 - meetup: https://www.a2sysml.xyz?utm_source=meetup&utm_medium=meetup_platform&utm_campaign=target_date
 
+### Flyers
+
+The link to the current flyer is in the Google Drive. For each location, make a specific UTM.
+
+For cheap, easy to use (no laminator) laminate pouches: https://www.amazon.com/Self-Adhesive-Laminating-Machine-Sealing-Laminate/dp/B0C2HSHMT2
+
+Colored printing can be found at the Westgate Staples for $0.70/copy. Print 8.5" x 11".
+
+### Newsletter
+
+We use Zoho campaigns to send newsletter and updates. In case we need to switch providers, there was a bit of setup in Zoho (email templates, subscribe/unsubcribe flow, the signup form). 
+
+Send email flow: write email in markdown, add to website, clone old campaign, convert markdown to HTML and paste, send (it may need to get approved).
+
 ## Feedback
 
-Feedback can be gathered through a form accessible on the website.
+Feedback can be gathered through the form accessible on the website. In case we need to change the form or view results, it is in the Google Drive.
 
 ## Engagement
 
 We will use email for weekly newsletters/announcements and Slack for topic specific communication.
 
-Slack link: https://a2sysml.slack.com/join/shared_invite/zt-296caufsy-aQAZfhTHjdB3exoSIWwPow#/shared-invite/email
+Slack link (there are channels for anything, ml and systems right now): https://a2sysml.slack.com/join/shared_invite/zt-296caufsy-aQAZfhTHjdB3exoSIWwPow#/shared-invite/email
+
+If you need to join newsletter, please use button on website. See Marketing > Newsletter to see how to send newsletter/update.
 
 ## Next Steps
 
