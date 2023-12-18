@@ -1,6 +1,8 @@
 # a2-sys-ml-meetup
 principles, motivations and marketing
 
+<img src="logo.png" alt="Our logo, a few trees with the text 'A2 SYS + ML'" width="200"/>
+
 ## Motivation
 
 I really just want a "hacker" atmosphere. I think I'll focus mostly on systems and ML. I think it'll be a mix of research, personal projects and presentations. I want it to be an atmosphere where a conversation can start and anyone can show their stuff off. Tech for the sake of tech. No Agile EVER. No fixation on large orgs (digital transformation, cloud migration for the sake of compliance, methodologies). MAYBE Startups. Badass shit. Modern tooling like Rust. SOTA databases, ML systems, compute, static analysis. Heavy engineering focus. Frontend only if there was interesting ENGINEERING (on the order of diff -> signal algorithms in implementation of frontend frameworks).
