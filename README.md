@@ -53,6 +53,20 @@ Slack link (there are channels for anything, ml and systems right now): https://
 
 If you need to join newsletter, please use button on website. See Marketing > Newsletter to see how to send newsletter/update.
 
+## Physical Items
+
+AADL Downtown Freespace room comes with tables, chairs, whiteboard, screen, hdmi cable, wifi
+
+Need to acquire/prepare (must fit in a backpack):
+
+- Food items: (bound this by $15): brownies, vegetables (carrots, cucumbers-sliced, radishes-sliced), ranch, cubed cheese
+- Beverages: 1 gallon of water, 3-2L of various drinks (root beer, cola, fruity drink)
+- Cutlery: Plates, cups, napkins, forks, plastic wrap for brownies
+- Ice. Eventually get a cooler.
+- Name tags + sharpies
+- Eventually chips/candy. Maybe bring food
+- Signs? I need to look into this. Might be expensive/bulky
+
 ## Next Steps
 
 Looking to meet Saturday, December 30th, 2023.
@@ -60,7 +74,8 @@ Looking to meet Saturday, December 30th, 2023.
 TODO:
 - Design flyers (logo /w text, qr code to website (make sure this has UTM for tracking), blurb describing goals/first meeting setting, use photoshop or some other free software)
 - book room (freespace, saturday 11am dec 30th)
-- find 5 points of interest for flyers (make separate UTM codes to measure effectiveness), aim for 10-20 colored + laminated copies when printing at staples
+- find 5 points of interest for flyers (aadl westgate, aadl dt, jerusalem garden, illegally put on utility poles) (make separate UTM codes to measure effectiveness), aim for 10-20 colored + laminated copies when printing at staples
+- Acquire tacks/tape for flyers, physical items
 - Put forms, complete website (check for any glaring issues, add parking/transit instructions (with map))
 - Write promotions on EventBrite, Meetup, Reddit, Facebook w/ UTM links for understanding where time needs to be invested in.
 - Advertise + write first newsletter (keep this simple, use markdown, include parking/transit instructions)
